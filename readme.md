@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Moritz
 
+* 🌞 Currently I work as a full-stack engineer for the full-service photovoltaik provider, [klarsolar](https://www.klarsolar.de)
 * 🎓 I recently finished my master's degree in software engineering
 * 🌱 I'm currently interested in GraphQL and Reinforcement Learning
 * 💭 Ask me about full-stack, serverless, ML, open-source and my baking recipes 🍰
